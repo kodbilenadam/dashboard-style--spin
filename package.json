@@ -1,0 +1,45 @@
+{
+  "_from": "@owczar/dashboard-style--spin@^0.1.14",
+  "_id": "@owczar/dashboard-style--spin@0.1.15",
+  "_inBundle": false,
+  "_integrity": "sha512-Sxkj0FnCq9p1c8Kp6FxI5IJrsD/6ftIJqiS02h/m735o1hE6vJf9wVEL555ZsnR/4WtzhBzNWuzZqMTn/VzmvA==",
+  "_location": "/@owczar/dashboard-style--spin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@owczar/dashboard-style--spin@^0.1.14",
+    "name": "@owczar/dashboard-style--spin",
+    "escapedName": "@owczar%2fdashboard-style--spin",
+    "scope": "@owczar",
+    "rawSpec": "^0.1.14",
+    "saveSpec": null,
+    "fetchSpec": "^0.1.14"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@owczar/dashboard-style--spin/-/dashboard-style--spin-0.1.15.tgz",
+  "_shasum": "bdd60bad3f7c4e7a3e4bbf61d314623ba128c57b",
+  "_spec": "@owczar/dashboard-style--spin@^0.1.14",
+  "_where": "C:\\Users\\tarik\\Desktop\\SPIN-Dashboard-Package-2.0\\v2\\Full-Version-React-v2",
+  "author": {
+    "name": "webkom.co"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "devDependencies": {
+    "gulp-replace": "^1.0.0"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@owczar/dashboard-style--spin",
+  "peerDependencies": {
+    "bootstrap": "^4.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.15"
+}
